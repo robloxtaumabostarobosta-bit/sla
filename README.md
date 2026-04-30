@@ -1,6 +1,3 @@
--- YORGUTE HUB (legítimo para uso no seu próprio jogo)
--- Coloque como LocalScript em StarterPlayerScripts
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
